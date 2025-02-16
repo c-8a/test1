@@ -2,3 +2,5 @@ Este es el primer archivo del repositorio, version inicial
     ahora le meto una modificacion al archivo
 
     esta es una modificacion del archivo raiz en la rama principal para probar el merge.
+    Esta nueva modificacion será en la nuevaRama
+    Este es el segundo commit de la nuevaRama, a ver qué pasa con el merge
